@@ -1,0 +1,8 @@
+DV - Project 
+Datasets used:
+1) Google stock
+2) Amazon stock
+3) Apple stock
+4) Facebook stock
+5) Netflix stock
+6) Tesla stock
